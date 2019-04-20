@@ -8,28 +8,30 @@ body,html{
 }
 .link: hover {
     background: black;
-    color: grey;
+    color: black;
     font-weight: bold;
     
 }
 .section1{
-    background: url(../img/background.jpg);
+    background: url(../img/monokrom.jpg);
     width:  100%;
     height:  100%;
     padding-top: 20%;
     text-align: center;
 }
 .judul{
-    font-family: cursive;
+    font-family: ;
     font-size:  80px;
     padding-bottom: 50px;
-    color:black;
+    color:white;
     margin: auto;
 }
-.sub-judul{
-    font-family: summer love;
-    font-size:  50px; 
+.sub judul{
+    font-size: 40px;
     color: black;
+    margin: auto;
+    text-align-last: center;
+
 }
 .section2{
     background: grey;
@@ -37,22 +39,23 @@ body,html{
     
 }
 .judul{
-    font-family: ;
+    font-family:inherit;
     font-size:  50px;
-    border-bottom: grey;
+    border-bottom: white;
     color: black;
     margin: auto;
     
 }
 .sub-judul{
-    font-family: summer love;
+    font-family: inherit;
     font-size:  20px; 
-    color:white;
+    color:black;
+    text-align: center;
 }
 .section3{
     background :white;
     padding:100px 0px;
-    color: black;
+    color: grey;
     font-size: 25px;
     font-weight: bold;
     text-align: center;
@@ -64,7 +67,7 @@ body,html{
     color: black;
 }
 .col-kanan{
-    background: white;
-    font border-color: black;
-    color: black;
+    background: black;
+    font border-color: white;
+    color: white;
 }
